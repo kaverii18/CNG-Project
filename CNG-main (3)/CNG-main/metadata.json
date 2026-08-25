@@ -1,0 +1,6 @@
+{
+  "name": "CNG Finder",
+  "description": "Find nearby CNG stations with real-time crowd-sourced availability, queue status, estimated waiting times, and smart recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
